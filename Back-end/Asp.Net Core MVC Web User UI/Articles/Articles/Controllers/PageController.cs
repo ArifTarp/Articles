@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Articles.Controllers
 {
-    public class HomeController : Controller
+    public class PageController : Controller
     {
         public IActionResult Index()
         {
