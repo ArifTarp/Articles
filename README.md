@@ -1,2 +1,6 @@
 # Articles
-This project is using CMS system. Asp.Net Core API as Back-end, User UI with Angular, Admin with Asp.Net Core MVC in Front-end
+---
+This project is using CMS system.  
+Back-end: Asp.Net Core MVC WEB API  
+User UI: Angular  
+Admin UI: Asp.Net Core MVC  
