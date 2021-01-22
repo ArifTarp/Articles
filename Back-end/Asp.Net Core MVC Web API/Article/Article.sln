@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Article.API", "Article.API\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Article.DataAccess", "Article.DataAccess\Article.DataAccess.csproj", "{8A7A954F-9B16-43B6-A48A-CC3C71AEDD6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Article.Business", "Article.Business\Article.Business.csproj", "{E5DB04A6-A1D1-4554-81C4-2C28BF1126A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A7A954F-9B16-43B6-A48A-CC3C71AEDD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A7A954F-9B16-43B6-A48A-CC3C71AEDD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A7A954F-9B16-43B6-A48A-CC3C71AEDD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DB04A6-A1D1-4554-81C4-2C28BF1126A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DB04A6-A1D1-4554-81C4-2C28BF1126A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DB04A6-A1D1-4554-81C4-2C28BF1126A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DB04A6-A1D1-4554-81C4-2C28BF1126A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
